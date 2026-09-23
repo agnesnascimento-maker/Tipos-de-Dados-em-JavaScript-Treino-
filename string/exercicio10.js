@@ -1,3 +1,6 @@
-const nome = "Carlos";
+const nome = "Lucas";
 const cidade = "São Paulo";
-console.log(`${nome} mora na cidade de ${cidade}.`);
+
+const frase = `${nome} mora na cidade de ${cidade}.`;
+
+console.log(frase);
